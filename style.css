@@ -1,0 +1,42 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+
+header { background-color: #27587D; color: #fff; padding: 20px; display: flex; justify-content: space-between; align-items: center; }
+
+.logo img { width: 100px; height: auto; }
+
+nav ul { list-style-type: none; display: flex; }
+
+nav li { margin-left: 20px; }
+
+nav a { color: #fff; text-decoration: none; }
+
+.banner { background-color: #009688; color: #fff; padding: 100px; text-align: center; }
+
+.banner h1 { font-size: 36px; }
+
+.container { max-width: 1200px; margin: 0 auto; padding: 40px; }
+
+.container h2 { font-size: 24px; margin-bottom: 20px; }
+
+.container p { font-size: 16px; margin-bottom: 20px; }
+
+.container img { max-width: 100%; height: auto; margin-top: 20px; margin-bottom: 20px; }
+
+.container ul { list-style-type: disc; margin-left: 20px; font-size: 16px; }
+
+#contato form label { display: block; margin-bottom: 5px; }
+
+#contato form input, #contato form textarea { width: 100%; padding: 10px; margin-bottom: 10px; }
+
+#contato form input[type="submit"] { background-color: #009688; color: #fff; border: none; cursor: pointer; padding: 15px; font-size: 16px; }
+
+footer { background-color: #27587D; color: #fff; padding: 20px; text-align: center; }
+
+h1 { text-align: center }
+
+p { font-size: 20px } h2 { color: blue; }
+
+strong {
+
+color: blue;
+}
